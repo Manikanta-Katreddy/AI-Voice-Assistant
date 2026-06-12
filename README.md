@@ -56,3 +56,19 @@ An AI-powered voice assistant built with Python that can understand voice comman
 Swamy Katreddy
 
 B.Tech Student | Python Developer | AI & Machine Learning Enthusiast
+
+
+How to Run
+
+pip install -r requirements.txt
+python main.py
+
+Requirements
+
+Python 3.x
+SpeechRecognition
+pyttsx3
+Groq API
+Tkinter
+
+
